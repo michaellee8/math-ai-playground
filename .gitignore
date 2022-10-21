@@ -132,3 +132,4 @@ ipython_config.py
 
 /data/
 /logs/
+/training_*/
